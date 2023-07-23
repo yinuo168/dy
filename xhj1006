@@ -16,113 +16,85 @@ proxies:
   - {name: TG搜索@xhj1006来进群h 5, server: cnvip.flareai.science, port: 11343, type: http, username: b74b2457b5, password: ddc132a6a3, tls: true, skip-cert-verify: false, udp: true}
   - {name: TG搜索@xhj1006来进群h 6, server: assets.flareai.site, port: 11443, type: http, username: b74b2457b5, password: ddc132a6a3, tls: true, skip-cert-verify: false, udp: true}
   - {name: TG搜索@xhj1006来进群h 7, server: catlog.flareai.science, port: 11443, type: http, username: b74b2457b5, password: ddc132a6a3, tls: true, skip-cert-verify: false, udp: true}
-  - {name: TG搜索@xhj1006来进群f, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 4, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 5, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 6, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 7, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 8, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 9, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 19, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 20, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 22, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 23, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 24, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 25, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 26, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z, server: cf2.992688.xyz, port: 8080, type: vmess, uuid: fda2c765-ed35-4e97-ba13-ed64b1c4c460, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hax.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 2, server: cf3.992688.xyz, port: 8080, type: vmess, uuid: fda2c765-ed35-4e97-ba13-ed64b1c4c460, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hax.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 3, server: cf3.992688.xyz, port: 8080, type: vmess, uuid: 5f098028-ea22-42ea-abfd-9222cb298b74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vceu.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 27, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 28, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 29, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 31, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 32, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 33, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 34, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 35, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 36, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 37, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 38, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 39, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 41, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 42, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 43, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 44, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 45, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 46, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 47, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 48, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 49, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 51, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 52, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 53, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 54, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 55, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 56, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 57, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 58, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 59, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 61, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 62, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 63, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 64, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 65, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 66, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 67, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 68, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 69, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 71, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 72, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 73, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 74, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 75, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 76, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 77, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 78, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 79, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 81, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 82, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 83, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 84, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 85, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 86, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 87, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 88, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 89, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 91, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 92, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 93, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 94, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 95, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 96, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 97, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 98, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 99, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 101, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 102, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 103, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 104, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 105, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 106, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 107, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 108, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 109, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 111, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 112, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 113, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 114, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 115, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 116, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 117, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 118, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 119, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 121, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 122, server: frarmbc.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxrmiao, headers: {Host: frarmbc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 123, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 124, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 125, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群f 126, server: baxwarfrey.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxtkmiao, headers: {Host: baxwarfrey.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 2, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 3, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 4, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 5, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 6, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 7, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 8, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 9, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 10, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 11, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 12, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 13, server: iaudhcui.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nfdguiw, headers: {Host: asfgdvf.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 14, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 15, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 16, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 17, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 18, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 19, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 20, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 21, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 22, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 64a50dee-5762-3814-a7eb-96b336334835, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 23, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 24, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 25, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 26, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 27, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 28, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 29, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 0df3c8ff-9bce-3556-986f-7b313064d542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 30, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 31, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 32, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 33, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 34, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 35, server: iaudhcui.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nfdguiw, headers: {Host: asfgdvf.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 36, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 37, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 38, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 39, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 40, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 41, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 42, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 43, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 44, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 45, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 46, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 47, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 48, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 49, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 50, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 51, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 52, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 53, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 54, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 55, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 56, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 57, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 58, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 0350d8f3-ac72-3b08-b5d1-e8ab3895e822, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 59, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 60, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 61, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 62, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 63, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 64, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 65, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 22e7bb9f-8bd0-3eed-be72-7a4cfeca0dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 66, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 67, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 68, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 69, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 70, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 71, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 72, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 6e13ff0b-55a6-3767-8b92-3098fda40927, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 73, server: hkgsdz.66666654.xyz, port: 2095, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hkg.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 74, server: hzefss.66666654.xyz, port: 2095, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 75, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 76, server: nlsdwsz.66666654.xyz, port: 2095, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: nlsd.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 77, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 78, server: bxaa.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxqmiao, headers: {Host: bxa.76898102.xyz}}, udp: true}
+  - {name: TG搜索@xhj1006来进群f 79, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
 proxy-groups:
   - name: 🚀 Nexitally
     type: select
@@ -152,25 +124,35 @@ proxy-groups:
       - TG搜索@xhj1006来进群h 6
       - TG搜索@xhj1006来进群h 7
       - TG搜索@xhj1006来进群f
+      - TG搜索@xhj1006来进群f 2
+      - TG搜索@xhj1006来进群f 3
       - TG搜索@xhj1006来进群f 4
       - TG搜索@xhj1006来进群f 5
       - TG搜索@xhj1006来进群f 6
       - TG搜索@xhj1006来进群f 7
       - TG搜索@xhj1006来进群f 8
       - TG搜索@xhj1006来进群f 9
+      - TG搜索@xhj1006来进群f 10
+      - TG搜索@xhj1006来进群f 11
+      - TG搜索@xhj1006来进群f 12
+      - TG搜索@xhj1006来进群f 13
+      - TG搜索@xhj1006来进群f 14
+      - TG搜索@xhj1006来进群f 15
+      - TG搜索@xhj1006来进群f 16
+      - TG搜索@xhj1006来进群f 17
+      - TG搜索@xhj1006来进群f 18
       - TG搜索@xhj1006来进群f 19
       - TG搜索@xhj1006来进群f 20
+      - TG搜索@xhj1006来进群f 21
       - TG搜索@xhj1006来进群f 22
       - TG搜索@xhj1006来进群f 23
       - TG搜索@xhj1006来进群f 24
       - TG搜索@xhj1006来进群f 25
       - TG搜索@xhj1006来进群f 26
-      - TG搜索@xhj1006来进群z
-      - TG搜索@xhj1006来进群z 2
-      - TG搜索@xhj1006来进群z 3
       - TG搜索@xhj1006来进群f 27
       - TG搜索@xhj1006来进群f 28
       - TG搜索@xhj1006来进群f 29
+      - TG搜索@xhj1006来进群f 30
       - TG搜索@xhj1006来进群f 31
       - TG搜索@xhj1006来进群f 32
       - TG搜索@xhj1006来进群f 33
@@ -180,6 +162,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 37
       - TG搜索@xhj1006来进群f 38
       - TG搜索@xhj1006来进群f 39
+      - TG搜索@xhj1006来进群f 40
       - TG搜索@xhj1006来进群f 41
       - TG搜索@xhj1006来进群f 42
       - TG搜索@xhj1006来进群f 43
@@ -189,6 +172,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 47
       - TG搜索@xhj1006来进群f 48
       - TG搜索@xhj1006来进群f 49
+      - TG搜索@xhj1006来进群f 50
       - TG搜索@xhj1006来进群f 51
       - TG搜索@xhj1006来进群f 52
       - TG搜索@xhj1006来进群f 53
@@ -198,6 +182,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 57
       - TG搜索@xhj1006来进群f 58
       - TG搜索@xhj1006来进群f 59
+      - TG搜索@xhj1006来进群f 60
       - TG搜索@xhj1006来进群f 61
       - TG搜索@xhj1006来进群f 62
       - TG搜索@xhj1006来进群f 63
@@ -207,6 +192,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 67
       - TG搜索@xhj1006来进群f 68
       - TG搜索@xhj1006来进群f 69
+      - TG搜索@xhj1006来进群f 70
       - TG搜索@xhj1006来进群f 71
       - TG搜索@xhj1006来进群f 72
       - TG搜索@xhj1006来进群f 73
@@ -216,48 +202,6 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 77
       - TG搜索@xhj1006来进群f 78
       - TG搜索@xhj1006来进群f 79
-      - TG搜索@xhj1006来进群f 81
-      - TG搜索@xhj1006来进群f 82
-      - TG搜索@xhj1006来进群f 83
-      - TG搜索@xhj1006来进群f 84
-      - TG搜索@xhj1006来进群f 85
-      - TG搜索@xhj1006来进群f 86
-      - TG搜索@xhj1006来进群f 87
-      - TG搜索@xhj1006来进群f 88
-      - TG搜索@xhj1006来进群f 89
-      - TG搜索@xhj1006来进群f 91
-      - TG搜索@xhj1006来进群f 92
-      - TG搜索@xhj1006来进群f 93
-      - TG搜索@xhj1006来进群f 94
-      - TG搜索@xhj1006来进群f 95
-      - TG搜索@xhj1006来进群f 96
-      - TG搜索@xhj1006来进群f 97
-      - TG搜索@xhj1006来进群f 98
-      - TG搜索@xhj1006来进群f 99
-      - TG搜索@xhj1006来进群f 101
-      - TG搜索@xhj1006来进群f 102
-      - TG搜索@xhj1006来进群f 103
-      - TG搜索@xhj1006来进群f 104
-      - TG搜索@xhj1006来进群f 105
-      - TG搜索@xhj1006来进群f 106
-      - TG搜索@xhj1006来进群f 107
-      - TG搜索@xhj1006来进群f 108
-      - TG搜索@xhj1006来进群f 109
-      - TG搜索@xhj1006来进群f 111
-      - TG搜索@xhj1006来进群f 112
-      - TG搜索@xhj1006来进群f 113
-      - TG搜索@xhj1006来进群f 114
-      - TG搜索@xhj1006来进群f 115
-      - TG搜索@xhj1006来进群f 116
-      - TG搜索@xhj1006来进群f 117
-      - TG搜索@xhj1006来进群f 118
-      - TG搜索@xhj1006来进群f 119
-      - TG搜索@xhj1006来进群f 121
-      - TG搜索@xhj1006来进群f 122
-      - TG搜索@xhj1006来进群f 123
-      - TG搜索@xhj1006来进群f 124
-      - TG搜索@xhj1006来进群f 125
-      - TG搜索@xhj1006来进群f 126
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -276,25 +220,35 @@ proxy-groups:
       - TG搜索@xhj1006来进群h 6
       - TG搜索@xhj1006来进群h 7
       - TG搜索@xhj1006来进群f
+      - TG搜索@xhj1006来进群f 2
+      - TG搜索@xhj1006来进群f 3
       - TG搜索@xhj1006来进群f 4
       - TG搜索@xhj1006来进群f 5
       - TG搜索@xhj1006来进群f 6
       - TG搜索@xhj1006来进群f 7
       - TG搜索@xhj1006来进群f 8
       - TG搜索@xhj1006来进群f 9
+      - TG搜索@xhj1006来进群f 10
+      - TG搜索@xhj1006来进群f 11
+      - TG搜索@xhj1006来进群f 12
+      - TG搜索@xhj1006来进群f 13
+      - TG搜索@xhj1006来进群f 14
+      - TG搜索@xhj1006来进群f 15
+      - TG搜索@xhj1006来进群f 16
+      - TG搜索@xhj1006来进群f 17
+      - TG搜索@xhj1006来进群f 18
       - TG搜索@xhj1006来进群f 19
       - TG搜索@xhj1006来进群f 20
+      - TG搜索@xhj1006来进群f 21
       - TG搜索@xhj1006来进群f 22
       - TG搜索@xhj1006来进群f 23
       - TG搜索@xhj1006来进群f 24
       - TG搜索@xhj1006来进群f 25
       - TG搜索@xhj1006来进群f 26
-      - TG搜索@xhj1006来进群z
-      - TG搜索@xhj1006来进群z 2
-      - TG搜索@xhj1006来进群z 3
       - TG搜索@xhj1006来进群f 27
       - TG搜索@xhj1006来进群f 28
       - TG搜索@xhj1006来进群f 29
+      - TG搜索@xhj1006来进群f 30
       - TG搜索@xhj1006来进群f 31
       - TG搜索@xhj1006来进群f 32
       - TG搜索@xhj1006来进群f 33
@@ -304,6 +258,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 37
       - TG搜索@xhj1006来进群f 38
       - TG搜索@xhj1006来进群f 39
+      - TG搜索@xhj1006来进群f 40
       - TG搜索@xhj1006来进群f 41
       - TG搜索@xhj1006来进群f 42
       - TG搜索@xhj1006来进群f 43
@@ -313,6 +268,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 47
       - TG搜索@xhj1006来进群f 48
       - TG搜索@xhj1006来进群f 49
+      - TG搜索@xhj1006来进群f 50
       - TG搜索@xhj1006来进群f 51
       - TG搜索@xhj1006来进群f 52
       - TG搜索@xhj1006来进群f 53
@@ -322,6 +278,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 57
       - TG搜索@xhj1006来进群f 58
       - TG搜索@xhj1006来进群f 59
+      - TG搜索@xhj1006来进群f 60
       - TG搜索@xhj1006来进群f 61
       - TG搜索@xhj1006来进群f 62
       - TG搜索@xhj1006来进群f 63
@@ -331,6 +288,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 67
       - TG搜索@xhj1006来进群f 68
       - TG搜索@xhj1006来进群f 69
+      - TG搜索@xhj1006来进群f 70
       - TG搜索@xhj1006来进群f 71
       - TG搜索@xhj1006来进群f 72
       - TG搜索@xhj1006来进群f 73
@@ -340,48 +298,6 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 77
       - TG搜索@xhj1006来进群f 78
       - TG搜索@xhj1006来进群f 79
-      - TG搜索@xhj1006来进群f 81
-      - TG搜索@xhj1006来进群f 82
-      - TG搜索@xhj1006来进群f 83
-      - TG搜索@xhj1006来进群f 84
-      - TG搜索@xhj1006来进群f 85
-      - TG搜索@xhj1006来进群f 86
-      - TG搜索@xhj1006来进群f 87
-      - TG搜索@xhj1006来进群f 88
-      - TG搜索@xhj1006来进群f 89
-      - TG搜索@xhj1006来进群f 91
-      - TG搜索@xhj1006来进群f 92
-      - TG搜索@xhj1006来进群f 93
-      - TG搜索@xhj1006来进群f 94
-      - TG搜索@xhj1006来进群f 95
-      - TG搜索@xhj1006来进群f 96
-      - TG搜索@xhj1006来进群f 97
-      - TG搜索@xhj1006来进群f 98
-      - TG搜索@xhj1006来进群f 99
-      - TG搜索@xhj1006来进群f 101
-      - TG搜索@xhj1006来进群f 102
-      - TG搜索@xhj1006来进群f 103
-      - TG搜索@xhj1006来进群f 104
-      - TG搜索@xhj1006来进群f 105
-      - TG搜索@xhj1006来进群f 106
-      - TG搜索@xhj1006来进群f 107
-      - TG搜索@xhj1006来进群f 108
-      - TG搜索@xhj1006来进群f 109
-      - TG搜索@xhj1006来进群f 111
-      - TG搜索@xhj1006来进群f 112
-      - TG搜索@xhj1006来进群f 113
-      - TG搜索@xhj1006来进群f 114
-      - TG搜索@xhj1006来进群f 115
-      - TG搜索@xhj1006来进群f 116
-      - TG搜索@xhj1006来进群f 117
-      - TG搜索@xhj1006来进群f 118
-      - TG搜索@xhj1006来进群f 119
-      - TG搜索@xhj1006来进群f 121
-      - TG搜索@xhj1006来进群f 122
-      - TG搜索@xhj1006来进群f 123
-      - TG搜索@xhj1006来进群f 124
-      - TG搜索@xhj1006来进群f 125
-      - TG搜索@xhj1006来进群f 126
   - name: 📲 电报消息
     type: select
     proxies:
@@ -631,25 +547,35 @@ proxy-groups:
       - TG搜索@xhj1006来进群h 6
       - TG搜索@xhj1006来进群h 7
       - TG搜索@xhj1006来进群f
+      - TG搜索@xhj1006来进群f 2
+      - TG搜索@xhj1006来进群f 3
       - TG搜索@xhj1006来进群f 4
       - TG搜索@xhj1006来进群f 5
       - TG搜索@xhj1006来进群f 6
       - TG搜索@xhj1006来进群f 7
       - TG搜索@xhj1006来进群f 8
       - TG搜索@xhj1006来进群f 9
+      - TG搜索@xhj1006来进群f 10
+      - TG搜索@xhj1006来进群f 11
+      - TG搜索@xhj1006来进群f 12
+      - TG搜索@xhj1006来进群f 13
+      - TG搜索@xhj1006来进群f 14
+      - TG搜索@xhj1006来进群f 15
+      - TG搜索@xhj1006来进群f 16
+      - TG搜索@xhj1006来进群f 17
+      - TG搜索@xhj1006来进群f 18
       - TG搜索@xhj1006来进群f 19
       - TG搜索@xhj1006来进群f 20
+      - TG搜索@xhj1006来进群f 21
       - TG搜索@xhj1006来进群f 22
       - TG搜索@xhj1006来进群f 23
       - TG搜索@xhj1006来进群f 24
       - TG搜索@xhj1006来进群f 25
       - TG搜索@xhj1006来进群f 26
-      - TG搜索@xhj1006来进群z
-      - TG搜索@xhj1006来进群z 2
-      - TG搜索@xhj1006来进群z 3
       - TG搜索@xhj1006来进群f 27
       - TG搜索@xhj1006来进群f 28
       - TG搜索@xhj1006来进群f 29
+      - TG搜索@xhj1006来进群f 30
       - TG搜索@xhj1006来进群f 31
       - TG搜索@xhj1006来进群f 32
       - TG搜索@xhj1006来进群f 33
@@ -659,6 +585,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 37
       - TG搜索@xhj1006来进群f 38
       - TG搜索@xhj1006来进群f 39
+      - TG搜索@xhj1006来进群f 40
       - TG搜索@xhj1006来进群f 41
       - TG搜索@xhj1006来进群f 42
       - TG搜索@xhj1006来进群f 43
@@ -668,6 +595,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 47
       - TG搜索@xhj1006来进群f 48
       - TG搜索@xhj1006来进群f 49
+      - TG搜索@xhj1006来进群f 50
       - TG搜索@xhj1006来进群f 51
       - TG搜索@xhj1006来进群f 52
       - TG搜索@xhj1006来进群f 53
@@ -677,6 +605,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 57
       - TG搜索@xhj1006来进群f 58
       - TG搜索@xhj1006来进群f 59
+      - TG搜索@xhj1006来进群f 60
       - TG搜索@xhj1006来进群f 61
       - TG搜索@xhj1006来进群f 62
       - TG搜索@xhj1006来进群f 63
@@ -686,6 +615,7 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 67
       - TG搜索@xhj1006来进群f 68
       - TG搜索@xhj1006来进群f 69
+      - TG搜索@xhj1006来进群f 70
       - TG搜索@xhj1006来进群f 71
       - TG搜索@xhj1006来进群f 72
       - TG搜索@xhj1006来进群f 73
@@ -695,48 +625,6 @@ proxy-groups:
       - TG搜索@xhj1006来进群f 77
       - TG搜索@xhj1006来进群f 78
       - TG搜索@xhj1006来进群f 79
-      - TG搜索@xhj1006来进群f 81
-      - TG搜索@xhj1006来进群f 82
-      - TG搜索@xhj1006来进群f 83
-      - TG搜索@xhj1006来进群f 84
-      - TG搜索@xhj1006来进群f 85
-      - TG搜索@xhj1006来进群f 86
-      - TG搜索@xhj1006来进群f 87
-      - TG搜索@xhj1006来进群f 88
-      - TG搜索@xhj1006来进群f 89
-      - TG搜索@xhj1006来进群f 91
-      - TG搜索@xhj1006来进群f 92
-      - TG搜索@xhj1006来进群f 93
-      - TG搜索@xhj1006来进群f 94
-      - TG搜索@xhj1006来进群f 95
-      - TG搜索@xhj1006来进群f 96
-      - TG搜索@xhj1006来进群f 97
-      - TG搜索@xhj1006来进群f 98
-      - TG搜索@xhj1006来进群f 99
-      - TG搜索@xhj1006来进群f 101
-      - TG搜索@xhj1006来进群f 102
-      - TG搜索@xhj1006来进群f 103
-      - TG搜索@xhj1006来进群f 104
-      - TG搜索@xhj1006来进群f 105
-      - TG搜索@xhj1006来进群f 106
-      - TG搜索@xhj1006来进群f 107
-      - TG搜索@xhj1006来进群f 108
-      - TG搜索@xhj1006来进群f 109
-      - TG搜索@xhj1006来进群f 111
-      - TG搜索@xhj1006来进群f 112
-      - TG搜索@xhj1006来进群f 113
-      - TG搜索@xhj1006来进群f 114
-      - TG搜索@xhj1006来进群f 115
-      - TG搜索@xhj1006来进群f 116
-      - TG搜索@xhj1006来进群f 117
-      - TG搜索@xhj1006来进群f 118
-      - TG搜索@xhj1006来进群f 119
-      - TG搜索@xhj1006来进群f 121
-      - TG搜索@xhj1006来进群f 122
-      - TG搜索@xhj1006来进群f 123
-      - TG搜索@xhj1006来进群f 124
-      - TG搜索@xhj1006来进群f 125
-      - TG搜索@xhj1006来进群f 126
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
