@@ -243,6 +243,61 @@ proxies:
   - {name: 加tg群xhj1006 71, server: awfgec.66666654.xyz, port: 2095, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: hzefs.66666654.xyz}}}
   - {name: 加tg群xhj1006 72, server: camtleaa.76898102.xyz, port: 2095, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /funsdfrh, headers: {Host: camtlea.76898102.xyz}}}
   - {name: 加tg群xhj1006 73, server: camtlebb.76898102.xyz, port: 2095, type: vmess, uuid: f689b513-8580-3b4e-a1ec-ea1bcb8a9482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /funsdfrh, headers: {Host: camtleb.76898102.xyz}}}
+  - {name: 🇲🇾 TG群xhj1006马来西亚_谢谢大家的支持永久订阅tg群xhj1006_567, server: ieplszhk-03.telescopes.work, port: 50409, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_579, server: iepl-zh.safetelescope.cc, port: 11808, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_446, server: ieplszhk-03.telescopes.work, port: 50805, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_443, server: iepl-zh.safetelescope.cc, port: 11805, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_440, server: ieplszhk-03.telescopes.work, port: 50803, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_381, server: iepl-zh.safetelescope.cc, port: 11803, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_334, server: iepl-hn.cctelescope.xyz, port: 21702, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_316, server: iepl-zh.safetelescope.cc, port: 11801, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_315, server: ieplszhk-03.telescopes.work, port: 50801, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_287, server: iepl-zh.safetelescope.cc, port: 11804, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇰🇷 TG群xhj1006韩国_谢谢大家的支持永久订阅tg群xhj1006_310, server: iepl-hn.cctelescope.xyz, port: 30003, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇦🇷 TG群xhj1006阿根廷_谢谢大家的支持永久订阅tg群xhj1006_555, server: iepl-hn.cctelescope.xyz, port: 21563, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_515, server: wz.safetelescope.cc, port: 28368, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_448, server: ieplszhk-03.telescopes.work, port: 50899, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_380, server: iepl-hn.cctelescope.xyz, port: 21738, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_321, server: iepl-zh.safetelescope.cc, port: 11899, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_278, server: ieplszhk-03.telescopes.work, port: 49036, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇵🇭 TG群xhj1006菲律宾_谢谢大家的支持永久订阅tg群xhj1006_196, server: iepl-hn.cctelescope.xyz, port: 21293, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇳🇱 TG群xhj1006荷兰_谢谢大家的支持永久订阅tg群xhj1006_582, server: ieplszhk-03.telescopes.work, port: 50744, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_366, server: iepl-hn.cctelescope.xyz, port: 21261, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_228, server: wz.safetelescope.cc, port: 10006, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_371, server: iepl-zh.safetelescope.cc, port: 11658, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_335, server: iepl-hn.cctelescope.xyz, port: 21632, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_332, server: wz.safetelescope.cc, port: 10005, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_21, server: sh163.safetelescope.cc, port: 62306, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇷🇴 TG群xhj1006罗马尼亚_谢谢大家的支持永久订阅tg群xhj1006_584, server: ieplszhk-03.telescopes.work, port: 50417, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇸🇪 TG群xhj1006瑞典_谢谢大家的支持永久订阅tg群xhj1006_362, server: iepl-hn.cctelescope.xyz, port: 21099, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇪🇪 TG群xhj1006爱沙尼亚_谢谢大家的支持永久订阅tg群xhj1006_453, server: ieplszhk-03.telescopes.work, port: 50058, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇦🇺 TG群xhj1006澳大利亚_谢谢大家的支持永久订阅tg群xhj1006_560, server: iepl-zh.safetelescope.cc, port: 11919, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_558, server: iepl-hn.cctelescope.xyz, port: 29404, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_520, server: ieplszhk-03.telescopes.work, port: 50402, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_559, server: wz.safetelescope.cc, port: 22262, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_372, server: iepl-zh.safetelescope.cc, port: 11853, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇰🇭 TG群xhj1006柬埔寨_谢谢大家的支持永久订阅tg群xhj1006_583, server: ieplszhk-03.telescopes.work, port: 50743, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_510, server: ieplszhk-03.telescopes.work, port: 50312, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_498, server: iepl-hn.cctelescope.xyz, port: 21078, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_368, server: iepl-zh.safetelescope.cc, port: 11554, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_22, server: wz.safetelescope.cc, port: 10019, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_522, server: wz.safetelescope.cc, port: 46562, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_441, server: ieplszhk-03.telescopes.work, port: 50306, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_435, server: iepl-zh.safetelescope.cc, port: 11600, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇩🇪 TG群xhj1006德国_谢谢大家的支持永久订阅tg群xhj1006_523, server: sh163.safetelescope.cc, port: 62301, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇯🇵 TG群xhj1006尼日利亚_谢谢大家的支持永久订阅tg群xhj1006_514, server: ieplszhk-03.telescopes.work, port: 50354, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇹🇷 TG群xhj1006土耳其_谢谢大家的支持永久订阅tg群xhj1006_458, server: iepl-hn.cctelescope.xyz, port: 21565, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_314, server: ieplszhk-03.telescopes.work, port: 50802, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_25, server: wz.safetelescope.cc, port: 10007, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇮🇩 TG群xhj1006印度尼西亚_谢谢大家的支持永久订阅tg群xhj1006_521, server: ieplszhk-03.telescopes.work, port: 50578, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇮🇳 TG群xhj1006印度_谢谢大家的支持永久订阅tg群xhj1006_361, server: iepl-hn.cctelescope.xyz, port: 21637, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇨🇦 TG群xhj1006加拿大_谢谢大家的支持永久订阅tg群xhj1006_365, server: iepl-hn.cctelescope.xyz, port: 21164, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇮🇸 TG群xhj1006冰岛_谢谢大家的支持永久订阅tg群xhj1006_569, server: iepl-hn.cctelescope.xyz, port: 21588, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_577, server: ieplszhk-03.telescopes.work, port: 50568, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_543, server: sh163.safetelescope.cc, port: 62305, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_324, server: ieplszhk-03.telescopes.work, port: 50567, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: 🇮🇱 TG群xhj1006以色列_谢谢大家的支持永久订阅tg群xhj1006_456, server: ieplszhk-03.telescopes.work, port: 50326, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
+  - {name: TG群xhj1006乌克兰_谢谢大家的支持永久订阅tg群xhj1006_551, server: ieplszhk-03.telescopes.work, port: 50568, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 265413:vEP631dLku, obfs-param: ajax.microsoft.com}
 proxy-groups:
   - name: 代理
     type: select
@@ -324,10 +379,72 @@ proxy-groups:
       - 加tg群xhj1006 71
       - 加tg群xhj1006 72
       - 加tg群xhj1006 73
+      - 🇲🇾 TG群xhj1006马来西亚_谢谢大家的支持永久订阅tg群xhj1006_567
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_579
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_446
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_443
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_440
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_381
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_334
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_316
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_315
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_287
+      - 🇰🇷 TG群xhj1006韩国_谢谢大家的支持永久订阅tg群xhj1006_310
+      - 🇦🇷 TG群xhj1006阿根廷_谢谢大家的支持永久订阅tg群xhj1006_555
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_515
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_448
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_380
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_321
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_278
+      - 🇵🇭 TG群xhj1006菲律宾_谢谢大家的支持永久订阅tg群xhj1006_196
+      - 🇳🇱 TG群xhj1006荷兰_谢谢大家的支持永久订阅tg群xhj1006_582
+      - 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_366
+      - 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_228
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_371
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_335
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_332
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_21
+      - 🇷🇴 TG群xhj1006罗马尼亚_谢谢大家的支持永久订阅tg群xhj1006_584
+      - 🇸🇪 TG群xhj1006瑞典_谢谢大家的支持永久订阅tg群xhj1006_362
+      - 🇪🇪 TG群xhj1006爱沙尼亚_谢谢大家的支持永久订阅tg群xhj1006_453
+      - 🇦🇺 TG群xhj1006澳大利亚_谢谢大家的支持永久订阅tg群xhj1006_560
+      - 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_558
+      - 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_520
+      - 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_559
+      - 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_372
+      - 🇰🇭 TG群xhj1006柬埔寨_谢谢大家的支持永久订阅tg群xhj1006_583
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_510
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_498
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_368
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_22
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_522
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_441
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_435
+      - 🇩🇪 TG群xhj1006德国_谢谢大家的支持永久订阅tg群xhj1006_523
+      - 🇯🇵 TG群xhj1006尼日利亚_谢谢大家的支持永久订阅tg群xhj1006_514
+      - 🇹🇷 TG群xhj1006土耳其_谢谢大家的支持永久订阅tg群xhj1006_458
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_314
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_25
+      - 🇮🇩 TG群xhj1006印度尼西亚_谢谢大家的支持永久订阅tg群xhj1006_521
+      - 🇮🇳 TG群xhj1006印度_谢谢大家的支持永久订阅tg群xhj1006_361
+      - 🇨🇦 TG群xhj1006加拿大_谢谢大家的支持永久订阅tg群xhj1006_365
+      - 🇮🇸 TG群xhj1006冰岛_谢谢大家的支持永久订阅tg群xhj1006_569
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_577
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_543
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_324
+      - 🇮🇱 TG群xhj1006以色列_谢谢大家的支持永久订阅tg群xhj1006_456
+      - TG群xhj1006乌克兰_谢谢大家的支持永久订阅tg群xhj1006_551
   - name: 电报
     type: select
     proxies:
       - 代理
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_371
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_335
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_332
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_21
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_522
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_441
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_435
       - DIRECT
   - name: 油管
     type: select
@@ -410,6 +527,61 @@ proxy-groups:
       - 加tg群xhj1006 71
       - 加tg群xhj1006 72
       - 加tg群xhj1006 73
+      - 🇲🇾 TG群xhj1006马来西亚_谢谢大家的支持永久订阅tg群xhj1006_567
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_579
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_446
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_443
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_440
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_381
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_334
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_316
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_315
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_287
+      - 🇰🇷 TG群xhj1006韩国_谢谢大家的支持永久订阅tg群xhj1006_310
+      - 🇦🇷 TG群xhj1006阿根廷_谢谢大家的支持永久订阅tg群xhj1006_555
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_515
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_448
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_380
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_321
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_278
+      - 🇵🇭 TG群xhj1006菲律宾_谢谢大家的支持永久订阅tg群xhj1006_196
+      - 🇳🇱 TG群xhj1006荷兰_谢谢大家的支持永久订阅tg群xhj1006_582
+      - 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_366
+      - 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_228
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_371
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_335
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_332
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_21
+      - 🇷🇴 TG群xhj1006罗马尼亚_谢谢大家的支持永久订阅tg群xhj1006_584
+      - 🇸🇪 TG群xhj1006瑞典_谢谢大家的支持永久订阅tg群xhj1006_362
+      - 🇪🇪 TG群xhj1006爱沙尼亚_谢谢大家的支持永久订阅tg群xhj1006_453
+      - 🇦🇺 TG群xhj1006澳大利亚_谢谢大家的支持永久订阅tg群xhj1006_560
+      - 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_558
+      - 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_520
+      - 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_559
+      - 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_372
+      - 🇰🇭 TG群xhj1006柬埔寨_谢谢大家的支持永久订阅tg群xhj1006_583
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_510
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_498
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_368
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_22
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_522
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_441
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_435
+      - 🇩🇪 TG群xhj1006德国_谢谢大家的支持永久订阅tg群xhj1006_523
+      - 🇯🇵 TG群xhj1006尼日利亚_谢谢大家的支持永久订阅tg群xhj1006_514
+      - 🇹🇷 TG群xhj1006土耳其_谢谢大家的支持永久订阅tg群xhj1006_458
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_314
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_25
+      - 🇮🇩 TG群xhj1006印度尼西亚_谢谢大家的支持永久订阅tg群xhj1006_521
+      - 🇮🇳 TG群xhj1006印度_谢谢大家的支持永久订阅tg群xhj1006_361
+      - 🇨🇦 TG群xhj1006加拿大_谢谢大家的支持永久订阅tg群xhj1006_365
+      - 🇮🇸 TG群xhj1006冰岛_谢谢大家的支持永久订阅tg群xhj1006_569
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_577
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_543
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_324
+      - 🇮🇱 TG群xhj1006以色列_谢谢大家的支持永久订阅tg群xhj1006_456
+      - TG群xhj1006乌克兰_谢谢大家的支持永久订阅tg群xhj1006_551
       - DIRECT
   - name: 奈飞
     type: select
@@ -492,11 +664,77 @@ proxy-groups:
       - 加tg群xhj1006 71
       - 加tg群xhj1006 72
       - 加tg群xhj1006 73
+      - 🇲🇾 TG群xhj1006马来西亚_谢谢大家的支持永久订阅tg群xhj1006_567
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_579
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_446
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_443
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_440
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_381
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_334
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_316
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_315
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_287
+      - 🇰🇷 TG群xhj1006韩国_谢谢大家的支持永久订阅tg群xhj1006_310
+      - 🇦🇷 TG群xhj1006阿根廷_谢谢大家的支持永久订阅tg群xhj1006_555
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_515
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_448
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_380
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_321
+      - 🇻🇳 TG群xhj1006越南_谢谢大家的支持永久订阅tg群xhj1006_278
+      - 🇵🇭 TG群xhj1006菲律宾_谢谢大家的支持永久订阅tg群xhj1006_196
+      - 🇳🇱 TG群xhj1006荷兰_谢谢大家的支持永久订阅tg群xhj1006_582
+      - 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_366
+      - 🇬🇧 TG群xhj1006英国_谢谢大家的支持永久订阅tg群xhj1006_228
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_371
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_335
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_332
+      - 🇺🇸 TG群xhj1006美国_谢谢大家的支持永久订阅tg群xhj1006_21
+      - 🇷🇴 TG群xhj1006罗马尼亚_谢谢大家的支持永久订阅tg群xhj1006_584
+      - 🇸🇪 TG群xhj1006瑞典_谢谢大家的支持永久订阅tg群xhj1006_362
+      - 🇪🇪 TG群xhj1006爱沙尼亚_谢谢大家的支持永久订阅tg群xhj1006_453
+      - 🇦🇺 TG群xhj1006澳大利亚_谢谢大家的支持永久订阅tg群xhj1006_560
+      - 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_558
+      - 🇹🇭 TG群xhj1006泰国_谢谢大家的支持永久订阅tg群xhj1006_520
+      - 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_559
+      - 🇫🇷 TG群xhj1006法国_谢谢大家的支持永久订阅tg群xhj1006_372
+      - 🇰🇭 TG群xhj1006柬埔寨_谢谢大家的支持永久订阅tg群xhj1006_583
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_510
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_498
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_368
+      - 🇯🇵 TG群xhj1006日本_谢谢大家的支持永久订阅tg群xhj1006_22
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_522
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_441
+      - 🇸🇬 TG群xhj1006新加坡_谢谢大家的支持永久订阅tg群xhj1006_435
+      - 🇩🇪 TG群xhj1006德国_谢谢大家的支持永久订阅tg群xhj1006_523
+      - 🇯🇵 TG群xhj1006尼日利亚_谢谢大家的支持永久订阅tg群xhj1006_514
+      - 🇹🇷 TG群xhj1006土耳其_谢谢大家的支持永久订阅tg群xhj1006_458
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_314
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_25
+      - 🇮🇩 TG群xhj1006印度尼西亚_谢谢大家的支持永久订阅tg群xhj1006_521
+      - 🇮🇳 TG群xhj1006印度_谢谢大家的支持永久订阅tg群xhj1006_361
+      - 🇨🇦 TG群xhj1006加拿大_谢谢大家的支持永久订阅tg群xhj1006_365
+      - 🇮🇸 TG群xhj1006冰岛_谢谢大家的支持永久订阅tg群xhj1006_569
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_577
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_543
+      - 🇷🇺 TG群xhj1006俄罗斯_谢谢大家的支持永久订阅tg群xhj1006_324
+      - 🇮🇱 TG群xhj1006以色列_谢谢大家的支持永久订阅tg群xhj1006_456
+      - TG群xhj1006乌克兰_谢谢大家的支持永久订阅tg群xhj1006_551
       - DIRECT
   - name: b站
     type: select
     proxies:
       - DIRECT
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_579
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_446
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_443
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_440
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_381
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_334
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_316
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_315
+      - 🇭🇰 TG群xhj1006香港_谢谢大家的支持永久订阅tg群xhj1006_287
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_314
+      - 🇨🇳 TG群xhj1006台湾_谢谢大家的支持永久订阅tg群xhj1006_25
   - name: 规则外路由选择
     type: select
     proxies:
