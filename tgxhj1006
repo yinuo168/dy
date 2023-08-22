@@ -305,6 +305,26 @@ proxies:
   - {name: 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324, server: ieplszhk-03.telescopes.work, port: 50567, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 37380:kuEqlRD1wN, obfs-param: ajax.microsoft.com}
   - {name: 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456, server: ieplszhk-03.telescopes.work, port: 50326, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 37380:kuEqlRD1wN, obfs-param: ajax.microsoft.com}
   - {name: tg群xhj1006乌克兰_谢谢大家的支持谢谢_551, server: ieplszhk-03.telescopes.work, port: 50568, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 37380:kuEqlRD1wN, obfs-param: ajax.microsoft.com}
+  - {name: "🇯🇵 tg群xhj1006日本节点 1[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50120, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 2[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50121, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 3[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50122, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 4[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50123, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 5[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50124, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 6[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50125, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 7[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50126, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 8[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50127, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 9[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50128, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 10[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50129, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 11[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50130, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 12[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50131, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 13[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50132, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 14[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50133, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 15[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50134, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 16[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50135, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 17[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50136, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 18[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50137, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 19[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50138, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: "🇯🇵 tg群xhj1006日本节点 20[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50139, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
 proxy-groups:
   - name: 代理
     type: select
@@ -448,6 +468,26 @@ proxy-groups:
       - 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324
       - 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456
       - tg群xhj1006乌克兰_谢谢大家的支持谢谢_551
+      - 🇯🇵 tg群xhj1006日本节点 1[普通]
+      - 🇯🇵 tg群xhj1006日本节点 2[普通]
+      - 🇯🇵 tg群xhj1006日本节点 3[普通]
+      - 🇯🇵 tg群xhj1006日本节点 4[普通]
+      - 🇯🇵 tg群xhj1006日本节点 5[普通]
+      - 🇯🇵 tg群xhj1006日本节点 6[普通]
+      - 🇯🇵 tg群xhj1006日本节点 7[普通]
+      - 🇯🇵 tg群xhj1006日本节点 8[普通]
+      - 🇯🇵 tg群xhj1006日本节点 9[普通]
+      - 🇯🇵 tg群xhj1006日本节点 10[普通]
+      - 🇯🇵 tg群xhj1006日本节点 11[普通]
+      - 🇯🇵 tg群xhj1006日本节点 12[普通]
+      - 🇯🇵 tg群xhj1006日本节点 13[普通]
+      - 🇯🇵 tg群xhj1006日本节点 14[普通]
+      - 🇯🇵 tg群xhj1006日本节点 15[普通]
+      - 🇯🇵 tg群xhj1006日本节点 16[普通]
+      - 🇯🇵 tg群xhj1006日本节点 17[普通]
+      - 🇯🇵 tg群xhj1006日本节点 18[普通]
+      - 🇯🇵 tg群xhj1006日本节点 19[普通]
+      - 🇯🇵 tg群xhj1006日本节点 20[普通]
   - name: 电报
     type: select
     proxies:
@@ -603,6 +643,26 @@ proxy-groups:
       - 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324
       - 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456
       - tg群xhj1006乌克兰_谢谢大家的支持谢谢_551
+      - 🇯🇵 tg群xhj1006日本节点 1[普通]
+      - 🇯🇵 tg群xhj1006日本节点 2[普通]
+      - 🇯🇵 tg群xhj1006日本节点 3[普通]
+      - 🇯🇵 tg群xhj1006日本节点 4[普通]
+      - 🇯🇵 tg群xhj1006日本节点 5[普通]
+      - 🇯🇵 tg群xhj1006日本节点 6[普通]
+      - 🇯🇵 tg群xhj1006日本节点 7[普通]
+      - 🇯🇵 tg群xhj1006日本节点 8[普通]
+      - 🇯🇵 tg群xhj1006日本节点 9[普通]
+      - 🇯🇵 tg群xhj1006日本节点 10[普通]
+      - 🇯🇵 tg群xhj1006日本节点 11[普通]
+      - 🇯🇵 tg群xhj1006日本节点 12[普通]
+      - 🇯🇵 tg群xhj1006日本节点 13[普通]
+      - 🇯🇵 tg群xhj1006日本节点 14[普通]
+      - 🇯🇵 tg群xhj1006日本节点 15[普通]
+      - 🇯🇵 tg群xhj1006日本节点 16[普通]
+      - 🇯🇵 tg群xhj1006日本节点 17[普通]
+      - 🇯🇵 tg群xhj1006日本节点 18[普通]
+      - 🇯🇵 tg群xhj1006日本节点 19[普通]
+      - 🇯🇵 tg群xhj1006日本节点 20[普通]
       - DIRECT
   - name: 奈飞
     type: select
@@ -747,6 +807,26 @@ proxy-groups:
       - 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324
       - 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456
       - tg群xhj1006乌克兰_谢谢大家的支持谢谢_551
+      - 🇯🇵 tg群xhj1006日本节点 1[普通]
+      - 🇯🇵 tg群xhj1006日本节点 2[普通]
+      - 🇯🇵 tg群xhj1006日本节点 3[普通]
+      - 🇯🇵 tg群xhj1006日本节点 4[普通]
+      - 🇯🇵 tg群xhj1006日本节点 5[普通]
+      - 🇯🇵 tg群xhj1006日本节点 6[普通]
+      - 🇯🇵 tg群xhj1006日本节点 7[普通]
+      - 🇯🇵 tg群xhj1006日本节点 8[普通]
+      - 🇯🇵 tg群xhj1006日本节点 9[普通]
+      - 🇯🇵 tg群xhj1006日本节点 10[普通]
+      - 🇯🇵 tg群xhj1006日本节点 11[普通]
+      - 🇯🇵 tg群xhj1006日本节点 12[普通]
+      - 🇯🇵 tg群xhj1006日本节点 13[普通]
+      - 🇯🇵 tg群xhj1006日本节点 14[普通]
+      - 🇯🇵 tg群xhj1006日本节点 15[普通]
+      - 🇯🇵 tg群xhj1006日本节点 16[普通]
+      - 🇯🇵 tg群xhj1006日本节点 17[普通]
+      - 🇯🇵 tg群xhj1006日本节点 18[普通]
+      - 🇯🇵 tg群xhj1006日本节点 19[普通]
+      - 🇯🇵 tg群xhj1006日本节点 20[普通]
       - DIRECT
   - name: b站
     type: select
