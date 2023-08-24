@@ -305,26 +305,39 @@ proxies:
   - {name: 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324, server: ieplszhk-03.telescopes.work, port: 50567, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 37380:kuEqlRD1wN, obfs-param: ajax.microsoft.com}
   - {name: 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456, server: ieplszhk-03.telescopes.work, port: 50326, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 37380:kuEqlRD1wN, obfs-param: ajax.microsoft.com}
   - {name: tg群xhj1006乌克兰_谢谢大家的支持谢谢_551, server: ieplszhk-03.telescopes.work, port: 50568, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 37380:kuEqlRD1wN, obfs-param: ajax.microsoft.com}
-  - {name: "🇯🇵 tg群xhj1006日本节点 1[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50120, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 2[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50121, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 3[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50122, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 4[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50123, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 5[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50124, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 6[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50125, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 7[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50126, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 8[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50127, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 9[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50128, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 10[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50129, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 11[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50130, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 12[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50131, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 13[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50132, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 14[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50133, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 15[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50134, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 16[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50135, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 17[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50136, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 18[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50137, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 19[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50138, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
-  - {name: "🇯🇵 tg群xhj1006日本节点 20[普通]", server: cwcm.ix.edge.kunlunae.com, port: 50139, type: ssr, cipher: chacha20, password: mPQ5C9, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: 13773361:2TvpA4, obfs-param: ""}
+  - {name: 🇦🇺 tg群xhj1006|澳大利亚01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10704, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇧🇷 tg群xhj1006|巴西01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10725, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇩🇪 tg群xhj1006|德国01|解锁流媒体, server: 213.202.216.14, port: 443, type: trojan, password: e42767d0-0833-4f76-a94b-2cfd197e389f, sni: downloadde.xn--mes358acgm99l.com, skip-cert-verify: false}
+  - {name: 🇩🇪 tg群xhj1006|德国02|解锁流媒体, server: downloadvip.cfd, port: 443, type: vmess, uuid: e42767d0-0833-4f76-a94b-2cfd197e389f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /jsjc/de1, headers: {Host: de1.jsjc.sbs}}}
+  - {name: 🇩🇪 tg群xhj1006|德国03|解锁流媒体, server: fs.xianyuwangluo.cyou, port: 27208, type: ss, cipher: chacha20-ietf-poly1305, password: d98857ac-dafe-49a8-bca7-f030c81d8578}
+  - {name: 🇩🇪 tg群xhj1006|德国04|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10714, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇸🇦 tg群xhj1006|迪拜01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10722, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇫🇷 tg群xhj1006|法国01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10717, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇫🇷 tg群xhj1006|法国02|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10716, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇰🇷 tg群xhj1006|韩国01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10702, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇰🇷 tg群xhj1006|韩国02|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10703, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇳🇱 tg群xhj1006|荷兰01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10715, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇺🇸 tg群xhj1006|美国01|解锁流媒体, server: 163.123.192.151, port: 443, type: trojan, password: e42767d0-0833-4f76-a94b-2cfd197e389f, sni: downloadus.xn--mes358acgm99l.com, skip-cert-verify: false}
+  - {name: 🇺🇸 tg群xhj1006|美国02|解锁流媒体, server: azjp1.downloadvip.cfd, port: 38200, type: trojan, password: e42767d0-0833-4f76-a94b-2cfd197e389f, sni: us1.xn--mes358acgm99l.com, skip-cert-verify: false}
+  - {name: 🇺🇸 tg群xhj1006|美国03|解锁流媒体, server: downloadvip.cfd, port: 443, type: vmess, uuid: e42767d0-0833-4f76-a94b-2cfd197e389f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /jsjc/us2, headers: {Host: us2.jsjc.sbs}}}
+  - {name: 🇺🇸 tg群xhj1006|美国04|解锁流媒体, server: fs.xianyuwangluo.cyou, port: 27207, type: ss, cipher: chacha20-ietf-poly1305, password: d98857ac-dafe-49a8-bca7-f030c81d8578}
+  - {name: 🇺🇸 tg群xhj1006|美国05|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10708, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇺🇸 tg群xhj1006|美国06|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10709, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇯🇵 tg群xhj1006|日本01|解锁流媒体, server: azjp1.downloadvip.cfd, port: 38200, type: trojan, password: e42767d0-0833-4f76-a94b-2cfd197e389f, sni: jp1.xn--mes358acgm99l.com, skip-cert-verify: false}
+  - {name: 🇯🇵 tg群xhj1006|日本02|解锁流媒体, server: downloadvip.cfd, port: 443, type: vmess, uuid: e42767d0-0833-4f76-a94b-2cfd197e389f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /jsjc/jp1, headers: {Host: jp1.jsjc.sbs}}}
+  - {name: 🇯🇵 tg群xhj1006|日本03|解锁流媒体, server: fs.xianyuwangluo.cyou, port: 27202, type: ss, cipher: chacha20-ietf-poly1305, password: d98857ac-dafe-49a8-bca7-f030c81d8578}
+  - {name: 🇸🇪 tg群xhj1006|瑞典01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10719, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇸🇦 tg群xhj1006|沙特01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10721, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇨🇳 tg群xhj1006|台湾01|解锁流媒体, server: hinet1.downloadvip.cfd, port: 443, type: trojan, password: e42767d0-0833-4f76-a94b-2cfd197e389f, sni: download.xn--mes358acgm99l.com, skip-cert-verify: false}
+  - {name: 🇪🇸 tg群xhj1006|西班牙01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10720, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇭🇰 tg群xhj1006|香港01|解锁流媒体, server: jh.xianyuwangluo.cyou, port: 27205, type: ss, cipher: chacha20-ietf-poly1305, password: d98857ac-dafe-49a8-bca7-f030c81d8578}
+  - {name: 🇭🇰 tg群xhj1006|香港02|解锁流媒体, server: hk1.downloadvip.cfd, port: 443, type: trojan, password: e42767d0-0833-4f76-a94b-2cfd197e389f, sni: diudyasj0hdiu8wh6wddhdiu8wh6wdd7b5sjiuads8oi6diudyasj0hdiu8wh6wdd7b5sjiuads8oi6diudyasj0hdiu8wh6wdd7b5sjiuads8oi6diudyasj0hdiu8wh6wdd7b5sj.xn--mes358acgm99l.com, skip-cert-verify: false}
+  - {name: 🇸🇬 tg群xhj1006|新加坡01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10707, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇸🇬 tg群xhj1006|新加坡02|解锁流媒体, server: fs.xianyuwangluo.cyou, port: 27201, type: ss, cipher: chacha20-ietf-poly1305, password: d98857ac-dafe-49a8-bca7-f030c81d8578}
+  - {name: 🇮🇹 tg群xhj1006|意大利01|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10718, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇮🇳 tg群xhj1006|印度01|解锁流媒体, server: fs.xianyuwangluo.cyou, port: 27203, type: ss, cipher: chacha20-ietf-poly1305, password: d98857ac-dafe-49a8-bca7-f030c81d8578}
+  - {name: 🇮🇳 tg群xhj1006|印度02|解锁流媒体, server: yidong.liulangdiqiu.cyou, port: 10706, type: ss, cipher: chacha20-ietf-poly1305, password: c925d279-1ebd-4703-9fb6-b164bc1ff827}
+  - {name: 🇬🇧 tg群xhj1006|英国01|解锁流媒体, server: fs.xianyuwangluo.cyou, port: 27209, type: ss, cipher: chacha20-ietf-poly1305, password: d98857ac-dafe-49a8-bca7-f030c81d8578}
 proxy-groups:
   - name: 代理
     type: select
@@ -468,26 +481,39 @@ proxy-groups:
       - 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324
       - 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456
       - tg群xhj1006乌克兰_谢谢大家的支持谢谢_551
-      - 🇯🇵 tg群xhj1006日本节点 1[普通]
-      - 🇯🇵 tg群xhj1006日本节点 2[普通]
-      - 🇯🇵 tg群xhj1006日本节点 3[普通]
-      - 🇯🇵 tg群xhj1006日本节点 4[普通]
-      - 🇯🇵 tg群xhj1006日本节点 5[普通]
-      - 🇯🇵 tg群xhj1006日本节点 6[普通]
-      - 🇯🇵 tg群xhj1006日本节点 7[普通]
-      - 🇯🇵 tg群xhj1006日本节点 8[普通]
-      - 🇯🇵 tg群xhj1006日本节点 9[普通]
-      - 🇯🇵 tg群xhj1006日本节点 10[普通]
-      - 🇯🇵 tg群xhj1006日本节点 11[普通]
-      - 🇯🇵 tg群xhj1006日本节点 12[普通]
-      - 🇯🇵 tg群xhj1006日本节点 13[普通]
-      - 🇯🇵 tg群xhj1006日本节点 14[普通]
-      - 🇯🇵 tg群xhj1006日本节点 15[普通]
-      - 🇯🇵 tg群xhj1006日本节点 16[普通]
-      - 🇯🇵 tg群xhj1006日本节点 17[普通]
-      - 🇯🇵 tg群xhj1006日本节点 18[普通]
-      - 🇯🇵 tg群xhj1006日本节点 19[普通]
-      - 🇯🇵 tg群xhj1006日本节点 20[普通]
+      - 🇦🇺 tg群xhj1006|澳大利亚01|解锁流媒体
+      - 🇧🇷 tg群xhj1006|巴西01|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国01|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国02|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国03|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国04|解锁流媒体
+      - 🇸🇦 tg群xhj1006|迪拜01|解锁流媒体
+      - 🇫🇷 tg群xhj1006|法国01|解锁流媒体
+      - 🇫🇷 tg群xhj1006|法国02|解锁流媒体
+      - 🇰🇷 tg群xhj1006|韩国01|解锁流媒体
+      - 🇰🇷 tg群xhj1006|韩国02|解锁流媒体
+      - 🇳🇱 tg群xhj1006|荷兰01|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国01|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国02|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国03|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国04|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国05|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国06|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本01|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本02|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本03|解锁流媒体
+      - 🇸🇪 tg群xhj1006|瑞典01|解锁流媒体
+      - 🇸🇦 tg群xhj1006|沙特01|解锁流媒体
+      - 🇨🇳 tg群xhj1006|台湾01|解锁流媒体
+      - 🇪🇸 tg群xhj1006|西班牙01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港02|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡01|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡02|解锁流媒体
+      - 🇮🇹 tg群xhj1006|意大利01|解锁流媒体
+      - 🇮🇳 tg群xhj1006|印度01|解锁流媒体
+      - 🇮🇳 tg群xhj1006|印度02|解锁流媒体
+      - 🇬🇧 tg群xhj1006|英国01|解锁流媒体
   - name: 电报
     type: select
     proxies:
@@ -499,6 +525,14 @@ proxy-groups:
       - 🇸🇬 tg群xhj1006新加坡_谢谢大家的支持谢谢_441
       - 🇸🇬 tg群xhj1006新加坡_谢谢大家的支持谢谢_435
       - 🇸🇬 tg群xhj1006新加坡_谢谢大家的支持谢谢_251
+      - 🇺🇸 tg群xhj1006|美国01|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国02|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国03|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国04|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国05|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国06|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡01|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡02|解锁流媒体
       - DIRECT
   - name: 油管
     type: select
@@ -643,26 +677,39 @@ proxy-groups:
       - 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324
       - 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456
       - tg群xhj1006乌克兰_谢谢大家的支持谢谢_551
-      - 🇯🇵 tg群xhj1006日本节点 1[普通]
-      - 🇯🇵 tg群xhj1006日本节点 2[普通]
-      - 🇯🇵 tg群xhj1006日本节点 3[普通]
-      - 🇯🇵 tg群xhj1006日本节点 4[普通]
-      - 🇯🇵 tg群xhj1006日本节点 5[普通]
-      - 🇯🇵 tg群xhj1006日本节点 6[普通]
-      - 🇯🇵 tg群xhj1006日本节点 7[普通]
-      - 🇯🇵 tg群xhj1006日本节点 8[普通]
-      - 🇯🇵 tg群xhj1006日本节点 9[普通]
-      - 🇯🇵 tg群xhj1006日本节点 10[普通]
-      - 🇯🇵 tg群xhj1006日本节点 11[普通]
-      - 🇯🇵 tg群xhj1006日本节点 12[普通]
-      - 🇯🇵 tg群xhj1006日本节点 13[普通]
-      - 🇯🇵 tg群xhj1006日本节点 14[普通]
-      - 🇯🇵 tg群xhj1006日本节点 15[普通]
-      - 🇯🇵 tg群xhj1006日本节点 16[普通]
-      - 🇯🇵 tg群xhj1006日本节点 17[普通]
-      - 🇯🇵 tg群xhj1006日本节点 18[普通]
-      - 🇯🇵 tg群xhj1006日本节点 19[普通]
-      - 🇯🇵 tg群xhj1006日本节点 20[普通]
+      - 🇦🇺 tg群xhj1006|澳大利亚01|解锁流媒体
+      - 🇧🇷 tg群xhj1006|巴西01|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国01|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国02|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国03|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国04|解锁流媒体
+      - 🇸🇦 tg群xhj1006|迪拜01|解锁流媒体
+      - 🇫🇷 tg群xhj1006|法国01|解锁流媒体
+      - 🇫🇷 tg群xhj1006|法国02|解锁流媒体
+      - 🇰🇷 tg群xhj1006|韩国01|解锁流媒体
+      - 🇰🇷 tg群xhj1006|韩国02|解锁流媒体
+      - 🇳🇱 tg群xhj1006|荷兰01|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国01|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国02|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国03|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国04|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国05|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国06|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本01|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本02|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本03|解锁流媒体
+      - 🇸🇪 tg群xhj1006|瑞典01|解锁流媒体
+      - 🇸🇦 tg群xhj1006|沙特01|解锁流媒体
+      - 🇨🇳 tg群xhj1006|台湾01|解锁流媒体
+      - 🇪🇸 tg群xhj1006|西班牙01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港02|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡01|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡02|解锁流媒体
+      - 🇮🇹 tg群xhj1006|意大利01|解锁流媒体
+      - 🇮🇳 tg群xhj1006|印度01|解锁流媒体
+      - 🇮🇳 tg群xhj1006|印度02|解锁流媒体
+      - 🇬🇧 tg群xhj1006|英国01|解锁流媒体
       - DIRECT
   - name: 奈飞
     type: select
@@ -807,26 +854,39 @@ proxy-groups:
       - 🇷🇺 tg群xhj1006俄罗斯_谢谢大家的支持谢谢_324
       - 🇮🇱 tg群xhj1006以色列_谢谢大家的支持谢谢_456
       - tg群xhj1006乌克兰_谢谢大家的支持谢谢_551
-      - 🇯🇵 tg群xhj1006日本节点 1[普通]
-      - 🇯🇵 tg群xhj1006日本节点 2[普通]
-      - 🇯🇵 tg群xhj1006日本节点 3[普通]
-      - 🇯🇵 tg群xhj1006日本节点 4[普通]
-      - 🇯🇵 tg群xhj1006日本节点 5[普通]
-      - 🇯🇵 tg群xhj1006日本节点 6[普通]
-      - 🇯🇵 tg群xhj1006日本节点 7[普通]
-      - 🇯🇵 tg群xhj1006日本节点 8[普通]
-      - 🇯🇵 tg群xhj1006日本节点 9[普通]
-      - 🇯🇵 tg群xhj1006日本节点 10[普通]
-      - 🇯🇵 tg群xhj1006日本节点 11[普通]
-      - 🇯🇵 tg群xhj1006日本节点 12[普通]
-      - 🇯🇵 tg群xhj1006日本节点 13[普通]
-      - 🇯🇵 tg群xhj1006日本节点 14[普通]
-      - 🇯🇵 tg群xhj1006日本节点 15[普通]
-      - 🇯🇵 tg群xhj1006日本节点 16[普通]
-      - 🇯🇵 tg群xhj1006日本节点 17[普通]
-      - 🇯🇵 tg群xhj1006日本节点 18[普通]
-      - 🇯🇵 tg群xhj1006日本节点 19[普通]
-      - 🇯🇵 tg群xhj1006日本节点 20[普通]
+      - 🇦🇺 tg群xhj1006|澳大利亚01|解锁流媒体
+      - 🇧🇷 tg群xhj1006|巴西01|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国01|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国02|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国03|解锁流媒体
+      - 🇩🇪 tg群xhj1006|德国04|解锁流媒体
+      - 🇸🇦 tg群xhj1006|迪拜01|解锁流媒体
+      - 🇫🇷 tg群xhj1006|法国01|解锁流媒体
+      - 🇫🇷 tg群xhj1006|法国02|解锁流媒体
+      - 🇰🇷 tg群xhj1006|韩国01|解锁流媒体
+      - 🇰🇷 tg群xhj1006|韩国02|解锁流媒体
+      - 🇳🇱 tg群xhj1006|荷兰01|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国01|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国02|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国03|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国04|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国05|解锁流媒体
+      - 🇺🇸 tg群xhj1006|美国06|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本01|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本02|解锁流媒体
+      - 🇯🇵 tg群xhj1006|日本03|解锁流媒体
+      - 🇸🇪 tg群xhj1006|瑞典01|解锁流媒体
+      - 🇸🇦 tg群xhj1006|沙特01|解锁流媒体
+      - 🇨🇳 tg群xhj1006|台湾01|解锁流媒体
+      - 🇪🇸 tg群xhj1006|西班牙01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港02|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡01|解锁流媒体
+      - 🇸🇬 tg群xhj1006|新加坡02|解锁流媒体
+      - 🇮🇹 tg群xhj1006|意大利01|解锁流媒体
+      - 🇮🇳 tg群xhj1006|印度01|解锁流媒体
+      - 🇮🇳 tg群xhj1006|印度02|解锁流媒体
+      - 🇬🇧 tg群xhj1006|英国01|解锁流媒体
       - DIRECT
   - name: b站
     type: select
@@ -845,6 +905,9 @@ proxy-groups:
       - 🇭🇰 tg群xhj1006香港_谢谢大家的支持谢谢_160
       - 🇨🇳 tg群xhj1006台湾_谢谢大家的支持谢谢_314
       - 🇨🇳 tg群xhj1006台湾_谢谢大家的支持谢谢_25
+      - 🇨🇳 tg群xhj1006|台湾01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港01|解锁流媒体
+      - 🇭🇰 tg群xhj1006|香港02|解锁流媒体
   - name: 规则外路由选择
     type: select
     proxies:
